@@ -27,6 +27,7 @@ const DEFAULT_OPTIONS: ReactNativeOptions = {
 };
 
 /**
+ * 初始化，手动在项目中启用 sentry 的入口
  * Inits the SDK
  */
 export function init(
